@@ -1,0 +1,68 @@
+root:
+    EZJlearnProgressionViewController:
+        backGroundImgView :
+            marginTop : 65
+            marginLeft : 0
+            marginWidth : 375
+            marginHeight : 664
+            image : evaluationSystemHomeBG
+        listenItem :
+            buttonTitle : 听力
+            buttonFont : 12
+            buttonTintColor : 158, 114, 214 ,1
+            backgroundColor : 255, 255, 255, 1
+        readingItem :
+            buttonTitle : 阅读
+            buttonFont : 12
+            buttonTintColor : 255, 255, 255 ,1
+            backgroundColor : 0, 0, 0, 0.3
+        listenCurveChartLabel :
+            marginTop : 16
+            marginLeft : 19.5
+            font : 16
+            textColor : 255, 255, 255 ,1
+            text : 听力晋级曲线
+        listenLVisLine :
+            marginTop : 32
+            marginLeft : 259
+            marginWidth : 71
+            marginHeight : 1
+            backgroundColor : 255, 178, 0 ,1
+        listenHeaderLine :
+            marginTop : 50
+            marginLeft : 1
+            marginWidth : 343.5
+            marginHeight : 1
+            backgroundColor : 242, 242, 242 ,0.1
+        learnProgressionLabel :
+            marginTop : 442
+            marginLeft : 42
+            font : 14
+            textColor : 255, 255, 255 ,1
+            text : 根据你的学习进程，预计
+        learnProgressionTianLabel :
+            font : 14
+            textColor : 255, 255, 255 ,1
+        learnProgressionLvLabel :
+            font : 18
+            textColor : 158, 114, 214 ,1
+            text : 0
+        tbvTitle :
+            marginTop : 17
+            marginLeft : 19.5
+            text : 听力能力报告
+            textColor : 255, 255, 255 ,1
+            font : 16
+
+
+
+
+
+
+
+
+
+
+
+
+

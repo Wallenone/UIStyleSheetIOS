@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UIStyleSheetIOS'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of UIStyleSheetIOS.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/wanjiehuizhaofang/UIStyleSheetIOS'
+  s.homepage         = 'www.baidu.com'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'wanjiehuizhaofang' => 'wanjie@huizhaofang.com' }
-  s.source           = { :git => 'https://github.com/wanjiehuizhaofang/UIStyleSheetIOS.git', :tag => s.version.to_s }
+  s.author           = { 'wallen' => '910082734@qq.com' }
+  s.source           = { :git => 'https://github.com/Wallenone/UIStyleSheetIOS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
